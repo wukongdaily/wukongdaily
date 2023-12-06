@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=gl-inet-onescript&theme=buefy" />
 </a>
 <a href="https://github.com/wukongdaily/commonscript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=commonscript&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=diy-nas-onescript&theme=buefy" />
 </a>
 
 <br />
