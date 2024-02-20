@@ -3,7 +3,9 @@
 
 ![wukong GitHub stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&show_icons=true&theme=cobalt)
 #### Top Repositories
-
+<a href="https://github.com/wukongdaily/tvhelper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=tvhelper&theme=buefy" />
+</a>
 <a href="https://github.com/wukongdaily/diy-nas-onescript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=diy-nas-onescript&theme=buefy" />
 </a>
@@ -13,10 +15,5 @@
 <a href="https://github.com/wukongdaily/commonscript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=commonscript&theme=buefy" />
 </a>
-<a href="https://github.com/wukongdaily/HowToUseSSH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=HowToUseSSH&theme=buefy" />
-</a>
-
-
 <br />
 <br />
