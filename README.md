@@ -3,6 +3,9 @@
 
 ![wukong GitHub stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&show_icons=true&theme=cobalt)
 #### Top Repositories
+<a href="https://github.com/wukongdaily/OpenBackRestore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=OpenBackRestore&theme=buefy" />
+</a>
 <a href="https://github.com/wukongdaily/tvhelper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=tvhelper&theme=buefy" />
 </a>
