@@ -1,3 +1,4 @@
+## 访问数：![hello](https://views.whatilearened.today/views/github/wukongdaily/deplives.svg)
 **About me**
 - 💬 Ask me about anything [here](https://github.com/wukongdaily/wukongdaily/issues)
 
