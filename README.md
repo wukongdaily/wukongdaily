@@ -11,6 +11,9 @@
 <a href="https://github.com/wukongdaily/OneKVM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=OneKVM&theme=buefy" />
 </a>
+<a href="https://github.com/wukongdaily/diy-nas-onescript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=diy-nas-onescript&theme=buefy" />
+</a>
 <a href="https://github.com/wukongdaily/DockerTarBuilder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=DockerTarBuilder&theme=buefy" />
 </a>
