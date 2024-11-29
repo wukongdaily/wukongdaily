@@ -2,6 +2,9 @@
 **About me**
 - 💬 Ask me about anything [here](https://github.com/wukongdaily/wukongdaily/issues)
 
+[![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://space.bilibili.com/250915741)
+[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker)](https://hub.docker.com/r/wukongdaily/box)
+
 ![wukong GitHub stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&show_icons=true&theme=cobalt)
 #### Top Repositories
 
