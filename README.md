@@ -18,11 +18,11 @@
 <a href="https://github.com/wukongdaily/gl-inet-onescript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=gl-inet-onescript&theme=buefy" />
 </a>
+<a href="https://github.com/wukongdaily/RunFilesBuilder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=RunFilesBuilder&theme=buefy" />
+</a>
 <a href="https://github.com/wukongdaily/OneKVM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=OneKVM&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/diy-nas-onescript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=diy-nas-onescript&theme=buefy" />
 </a>
 <a href="https://github.com/wukongdaily/DockerTarBuilder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=DockerTarBuilder&theme=buefy" />
