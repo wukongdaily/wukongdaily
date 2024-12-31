@@ -9,6 +9,9 @@
 ![wukong GitHub stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&show_icons=true&theme=cobalt)
 #### Top Repositories
 
+<a href="https://github.com/wukongdaily/AutoBuildImmortalWrt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=AutoBuildImmortalWrt&theme=buefy" />
+</a>
 <a href="https://github.com/wukongdaily/DockerTarBuilder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=DockerTarBuilder&theme=buefy" />
 </a>
