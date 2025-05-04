@@ -10,7 +10,9 @@
 #### Top Repositories
 
 
-
+<a href="https://github.com/wukongdaily/pan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=pan&theme=buefy" />
+</a>
 <a href="https://github.com/wukongdaily/AutoBuildImmortalWrt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=AutoBuildImmortalWrt&theme=buefy" />
 </a>
