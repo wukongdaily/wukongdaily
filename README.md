@@ -5,6 +5,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://www.youtube.com/@wukongdaily)
 [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://space.bilibili.com/250915741)
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker)](https://hub.docker.com/r/wukongdaily/box)
+[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/istoreos-image.svg?logo=docker)](https://hub.docker.com/r/wukongdaily/istoreos-image)
 [![赞助我](https://img.shields.io/badge/赞助我-支持作者的项目-orange?logo=github)](https://wkdaily.cpolar.top/01)
 
 ![wukong GitHub stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&show_icons=true&theme=cobalt)
