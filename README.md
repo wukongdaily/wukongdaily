@@ -45,6 +45,9 @@
 <a href="https://github.com/wukongdaily/tvhelper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=tvhelper&theme=buefy" />
 </a>
+<a href="https://github.com/wukongdaily/be3600">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=be3600&theme=buefy" />
+</a>
 
 
 <br />
