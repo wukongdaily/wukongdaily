@@ -17,8 +17,8 @@
 <a href="https://github.com/wukongdaily/AutoBuildImmortalWrt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=AutoBuildImmortalWrt&theme=buefy" />
 </a>
-<a href="https://github.com/wukongdaily/armbian-installer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=armbian-installer&theme=buefy" />
+<a href="https://github.com/wukongdaily/img-installer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=img-installer&theme=buefy" />
 </a>
 <a href="https://github.com/wukongdaily/DockerTarBuilder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=DockerTarBuilder&theme=buefy" />
