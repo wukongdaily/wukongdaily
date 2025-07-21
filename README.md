@@ -7,13 +7,9 @@
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker&label=盒子助手下载次数)](https://hub.docker.com/r/wukongdaily/box)
 [![赞助我](https://img.shields.io/badge/赞助我-支持作者的项目-orange?logo=github)](https://wkdaily.cpolar.top/01)<br>
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/istoreos-image.svg?logo=docker&label=istoreos-for-arm64下载次数)](https://hub.docker.com/r/wukongdaily/istoreos-image)<br>
-![wukong GitHub stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&show_icons=true&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 #### Top Repositories
 
-
-<a href="https://github.com/wukongdaily/ib-overlay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=ib-overlay&theme=buefy" />
-</a>
 <a href="https://github.com/wukongdaily/AutoBuildImmortalWrt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=AutoBuildImmortalWrt&theme=buefy" />
 </a>
