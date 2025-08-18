@@ -4,9 +4,10 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://www.youtube.com/@wukongdaily)
 [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://space.bilibili.com/250915741)
-[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker&label=盒子助手下载次数)](https://hub.docker.com/r/wukongdaily/box)
 [![赞助我](https://img.shields.io/badge/赞助我-支持作者的项目-orange?logo=github)](https://wkdaily.cpolar.top/01)<br>
-[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/istoreos-image.svg?logo=docker&label=istoreos-for-arm64下载次数)](https://hub.docker.com/r/wukongdaily/istoreos-image)<br>
+[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/istoreos-image.svg?logo=docker&label=istoreos-for-arm64下载次数)](https://hub.docker.com/r/wukongdaily/istoreos-image)
+[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker&label=盒子助手下载次数)](https://hub.docker.com/r/wukongdaily/box)
+[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/glibox.svg?logo=docker&label=glinet内网脚本)](https://hub.docker.com/r/wukongdaily/glibox)<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 #### Top Repositories
 
