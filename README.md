@@ -4,6 +4,8 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://www.youtube.com/@wukongdaily)
 [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://space.bilibili.com/250915741)
+[![xiaohongshu](https://img.shields.io/badge/小红书-FF2442?logo=xiaohongshu&logoColor=fff&labelColor=FF2442)](https://www.xiaohongshu.com/user/profile/5940f9b982ec390ea02d23ef)
+
 
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/istoreos-image.svg?logo=docker&label=istoreos-for-arm64下载次数)](https://hub.docker.com/r/wukongdaily/istoreos-image)
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker&label=盒子助手下载次数)](https://hub.docker.com/r/wukongdaily/box)
