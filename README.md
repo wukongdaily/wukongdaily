@@ -4,48 +4,15 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://www.youtube.com/@wukongdaily)
 [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://space.bilibili.com/250915741)
-[![赞助我](https://img.shields.io/badge/赞助我-支持作者的项目-orange?logo=github)](https://wkdaily.cpolar.top/01)<br>
+
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/istoreos-image.svg?logo=docker&label=istoreos-for-arm64下载次数)](https://hub.docker.com/r/wukongdaily/istoreos-image)
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker&label=盒子助手下载次数)](https://hub.docker.com/r/wukongdaily/box)
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/glibox.svg?logo=docker&label=glinet内网脚本)](https://hub.docker.com/r/wukongdaily/glibox)<br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wukongdaily&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-#### Top Repositories
-
-<a href="https://github.com/wukongdaily/AutoBuildImmortalWrt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=AutoBuildImmortalWrt&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/RunFilesBuilder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=RunFilesBuilder&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/img-installer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=img-installer&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/tvhelper-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=tvhelper-docker&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/DockerTarBuilder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=DockerTarBuilder&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/OrangePiShell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=OrangePiShell&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/tvhelper-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=tvhelper-docker&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/gl-inet-onescript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=gl-inet-onescript&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/OneKVM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=OneKVM&theme=buefy" />
-</a>
-
-<a href="https://github.com/wukongdaily/OpenBackRestore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=OpenBackRestore&theme=buefy" />
-</a>
-<a href="https://github.com/wukongdaily/be3600">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wukongdaily&repo=be3600&theme=buefy" />
-</a>
 
 
-<br />
-<br />
+<a href="https://wkdaily.cpolar.top/01" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy Me A Coffee"
+       style="width:15%; height:auto;">
+</a>
+
