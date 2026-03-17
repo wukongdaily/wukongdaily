@@ -7,7 +7,7 @@
 [![xiaohongshu](https://img.shields.io/badge/小红书-FF2442?logo=xiaohongshu&logoColor=fff&labelColor=FF2442)](https://www.xiaohongshu.com/user/profile/5940f9b982ec390ea02d23ef)
 
 
-[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/istoreos-image.svg?logo=docker&label=istoreos-for-arm64下载次数)](https://hub.docker.com/r/wukongdaily/istoreos-image)
+[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/openwrt-istoreos.svg?logo=docker&label=openwrt-istoreos下载次数)](https://hub.docker.com/r/wukongdaily/openwrt-istoreos/)
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker&label=盒子助手下载次数)](https://hub.docker.com/r/wukongdaily/box)
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/glibox.svg?logo=docker&label=glinet内网脚本)](https://hub.docker.com/r/wukongdaily/glibox)<br>
 
