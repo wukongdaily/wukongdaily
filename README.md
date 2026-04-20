@@ -4,7 +4,7 @@
 
 
 
-[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/openwrt-istoreos.svg?logo=docker&label=openwrt-istoreos下载次数)](https://hub.docker.com/r/wukongdaily/openwrt-istoreos/)
+[![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/openwrt-istoreos.svg?logo=docker&label=openwrt-istoreos下载次数↑&labelColor=9044F2)](https://hub.docker.com/r/wukongdaily/openwrt-istoreos/)
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/box.svg?logo=docker&label=盒子助手下载次数)](https://hub.docker.com/r/wukongdaily/box)
 [![docker pulls](https://img.shields.io/docker/pulls/wukongdaily/glibox.svg?logo=docker&label=glinet内网脚本)](https://hub.docker.com/r/wukongdaily/glibox)<br>
 
